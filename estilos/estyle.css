@@ -34,7 +34,7 @@ main{
 
 section#telefone  {
     position: absolute;
-    top: 50%;
+    top: 54%;
     left: 50%;
     transform: translate(-50%, -50%);
     height: 800px;
@@ -42,6 +42,7 @@ section#telefone  {
     background-image:  url(../pacote-d013/imagens/pngwing.png);
     background-repeat: no-repeat;
     background-size: cover;
+    
     
     
 }
@@ -56,12 +57,15 @@ iframe#tela {
     left: 33px;
     width: 341px;
     height: 739px;
+
+    
     
    
 }
 
 #redesocial {
-    text-align: right;
+    text-align: center;
+    margin-top: 45px;
     margin-right: 20px;
 }
 
